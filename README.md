@@ -1,6 +1,6 @@
 # Hi, Samuele there 👨🏻‍💻
-
-## About me:
+## Doing some magic ⚡️
+### About me:
 
 > 💼 Cybersecurity specialist in Access Management @ NetStudio S.p.A\
 🎹 Electronic Music and Techno Producer\
