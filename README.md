@@ -34,6 +34,8 @@
   <img width="12" />
    <img src="https://cdn.iconscout.com/icon/free/png-256/free-debian-logo-icon-download-in-svg-png-gif-file-formats--operating-system-pack-logos-icons-202378.png?f=webp&w=256" height="40" alt="Debian logo"  />
    <img width="12" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/2560px-Red_Hat_logo.svg.png" alt="RedHat logo"  />
+   <img width="12" />
   <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/opensuse-512.png" height="40" alt="SuSe logo"  />
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/microfocus-icon-512x512-cfo9guk2.png" height="40" alt="MicroFocus logo"  />
