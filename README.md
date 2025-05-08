@@ -32,11 +32,11 @@
   <img width="12" />
   <img src="https://nocodestartup.io/wp-content/uploads/2024/01/postman-nocode.webp" height="40" alt="postman logo"  />
   <img width="12" />
-   <img src="https://cdn.iconscout.com/icon/free/png-256/free-debian-logo-icon-download-in-svg-png-gif-file-formats--operating-system-pack-logos-icons-202378.png?f=webp&w=256" height="40" alt="visualstudio logo"  />
+   <img src="https://cdn.iconscout.com/icon/free/png-256/free-debian-logo-icon-download-in-svg-png-gif-file-formats--operating-system-pack-logos-icons-202378.png?f=webp&w=256" height="40" alt="Debian logo"  />
    <img width="12" />
-  <img src="https://softmap.ru/upload/uf/3f5/3f52e58e480656ea63679e9c7927c4aa.png" height="40" alt="eclipse logo"  />
+  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/opensuse-512.png" height="40" alt="SuSe logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Micro_Focus_logo.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/microfocus-icon-512x512-cfo9guk2.png" height="40" alt="MicroFocus logo"  />
 </div>
 
 ###
