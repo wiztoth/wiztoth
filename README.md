@@ -2,7 +2,7 @@
 ## Doing some magic ⚡️
 ### 👨🏻‍💻 About me:
 
-> 💼 Cybersecurity specialist in Access Management @ NetStudio S.p.A\
+> 💼 Cybersecurity specialist in Access Management @ Minsait Cyber\
 🎹 Electronic Music and Techno Producer\
 🎲 Magic The Gathering and Boardgames player\
 👨🏻‍🍳 Foodie and food lover
