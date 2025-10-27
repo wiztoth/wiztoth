@@ -2,7 +2,7 @@
 ## Doing some magic ⚡️
 ### 👨🏻‍💻 About me:
 
-> 💼 Cybersecurity Analyst in Access Management @ Minsait Cyber\
+> 💼 Cybersecurity Analyst in Access Management @ Minsait Cyber
  
  ✉️ ✨ Reach me there or by mail at samueleleone@hotmail.com 
  ### 🌎 Social: 
