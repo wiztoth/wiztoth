@@ -2,10 +2,7 @@
 ## Doing some magic ⚡️
 ### 👨🏻‍💻 About me:
 
-> 💼 Cybersecurity specialist in Access Management @ Minsait Cyber\
-🎹 Electronic Music and Techno Producer\
-🎲 Magic The Gathering and Boardgames player\
-👨🏻‍🍳 Foodie and food lover
+> 💼 Cybersecurity Analyst in Access Management @ Minsait Cyber\
  
  ✉️ ✨ Reach me there or by mail at samueleleone@hotmail.com 
  ### 🌎 Social: 
