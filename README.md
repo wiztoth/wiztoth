@@ -4,13 +4,6 @@
 
 > 💼 Cybersecurity Analyst in Access Management @ Minsait Cyber
  
- ✉️ ✨ Reach me there or by mail at samueleleone@hotmail.com 
- ### 🌎 Social: 
-<div align="left">
-<a href="https://www.linkedin.com/in/samuelel"><img src="https://camo.githubusercontent.com/b0da060b0237877908206fb134e55edc851e45dfc04e58d90cb97fcf0d14ad96/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" height="35" alt="linkedin logo"  /></a>
-<a href="https://www.linkedin.com/in/samuelel](https://www.instagram.com/samueleleone"><img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" height="35" alt="instagram logo"  /> </a>
-</div>
-
  ### 🛠 Work Tools, language and brand: 
 <div align="left">
   <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" height="40" alt="typescript logo"  />
