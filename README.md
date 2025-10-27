@@ -1,8 +1,9 @@
 # Hi, Samuele there 👋🏻
-## Trick or Threat? ⚡️
-### 👨🏻‍💻 About me:
-The man behind the shell
 > 🔒 Cybersecurity Analyst @ Minsait Cyber 
+Trick or Threat? ⚡️
+
+The man behind the shell
+
  
 
 
