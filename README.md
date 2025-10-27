@@ -17,8 +17,6 @@
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="40" alt="aws logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://images.icon-icons.com/2699/PNG/512/oracle_logo_icon_168918.png" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" height="40" alt="mysql logo"  />
